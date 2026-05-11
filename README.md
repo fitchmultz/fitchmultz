@@ -22,6 +22,21 @@ These are the six projects I keep pinned. They show the current center of gravit
 - For systems and operator thinking, open [`AI Control Plane`](https://github.com/fitchmultz/ai-control-plane), [`Spartan Scraper`](https://github.com/fitchmultz/spartan-scraper), or [`Splunk TUI`](https://github.com/fitchmultz/splunk-tui).
 - For end-to-end demo surfaces, open [`Promo Studio`](https://github.com/fitchmultz/promo-studio), [`agent-eval`](https://github.com/fitchmultz/agent-eval), or [`Ricochet Rush`](https://github.com/fitchmultz/ricochet-rush).
 
+## Pi extension suite
+
+Each public Pi extension is intentionally small and focused:
+
+- [`pi-codex-goal`](https://github.com/fitchmultz/pi-codex-goal) — goal tracking and continuation for long Pi sessions.
+- [`pi-agent-browser-native`](https://github.com/fitchmultz/pi-agent-browser-native) — native `agent_browser` tool for controlled browser automation in Pi.
+- [`pi-oracle`](https://github.com/fitchmultz/pi-oracle) — ChatGPT web handoff for hard or long-running tasks with archives, async jobs, and saved results.
+- [`pi-cursor-sdk`](https://github.com/fitchmultz/pi-cursor-sdk) — Cursor SDK provider that adds Cursor models to Pi's native model picker.
+- [`pi-edit-session-in-place`](https://github.com/fitchmultz/pi-edit-session-in-place) — re-edit or delete an earlier user message in the current session branch.
+- [`pi-stash`](https://github.com/fitchmultz/pi-stash) — stash draft messages and restore them later.
+- [`pi-local-agents-only`](https://github.com/fitchmultz/pi-local-agents-only) — strip global `AGENTS.md` and `CLAUDE.md` instructions for selected projects.
+- [`pi-copy-user-message`](https://github.com/fitchmultz/pi-copy-user-message) — copy the most recent user message to the clipboard.
+
+In progress: `pi-zai-mcp` — a Z.ai MCP server bridge for Pi with web search, reader, `zread`, and vision tools; preparing for a public repo and npm release.
+
 ## More work worth opening
 
 | Project | What it shows | Start here |
@@ -33,8 +48,6 @@ These are the six projects I keep pinned. They show the current center of gravit
 | [`Morphio`](https://github.com/fitchmultz/morphio) | AI-assisted content workflow monorepo with FastAPI, Next.js, and native routines | [Visual tour](https://github.com/fitchmultz/morphio#visual-tour) |
 | [`Splunk TUI`](https://github.com/fitchmultz/splunk-tui) | Rust CLI/TUI for Splunk diagnostics and local-first verification | [Quick validation](https://github.com/fitchmultz/splunk-tui#quick-validation) |
 | [`Cloop`](https://github.com/fitchmultz/cloop) | Local loop/task and knowledge assistant, separate from CueLoop | [Architecture at a glance](https://github.com/fitchmultz/cloop#architecture-at-a-glance) |
-
-Smaller Pi utilities live in the repo list rather than the pins: [`pi-edit-session-in-place`](https://github.com/fitchmultz/pi-edit-session-in-place), [`pi-stash`](https://github.com/fitchmultz/pi-stash), [`pi-ephemeral`](https://github.com/fitchmultz/pi-ephemeral), [`pi-local-agents-only`](https://github.com/fitchmultz/pi-local-agents-only), and [`pi-copy-user-message`](https://github.com/fitchmultz/pi-copy-user-message).
 
 ## What I focus on
 
