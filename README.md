@@ -31,11 +31,10 @@ Each public Pi extension is intentionally small and focused:
 - [`pi-oracle`](https://github.com/fitchmultz/pi-oracle) — ChatGPT web handoff for hard or long-running tasks with archives, async jobs, and saved results.
 - [`pi-cursor-sdk`](https://github.com/fitchmultz/pi-cursor-sdk) — Cursor SDK provider that adds Cursor models to Pi's native model picker.
 - [`pi-edit-session-in-place`](https://github.com/fitchmultz/pi-edit-session-in-place) — re-edit or delete an earlier user message in the current session branch.
+- [`pi-zai-mcp`](https://github.com/fitchmultz/pi-zai-mcp) — Z.ai MCP server bridge for web search, URL/repository reading, and vision workflows in Pi.
 - [`pi-stash`](https://github.com/fitchmultz/pi-stash) — stash draft messages and restore them later.
 - [`pi-local-agents-only`](https://github.com/fitchmultz/pi-local-agents-only) — strip global `AGENTS.md` and `CLAUDE.md` instructions for selected projects.
 - [`pi-copy-user-message`](https://github.com/fitchmultz/pi-copy-user-message) — copy the most recent user message to the clipboard.
-
-In progress: `pi-zai-mcp` — a Z.ai MCP server bridge for Pi with web search, reader, `zread`, and vision tools; preparing for a public repo and npm release.
 
 ## More work worth opening
 
