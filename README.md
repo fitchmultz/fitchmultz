@@ -1,6 +1,6 @@
 # Mitch Fultz
 
-I build local-first AI developer tools and agent workflow infrastructure: focused Pi extensions, CueLoop for queue-driven coding-agent work, and operational systems for governance, scraping, and verification.
+I build AI developer tools and agent workflow infrastructure: focused Pi extensions, CueLoop for queue-driven coding-agent work, and operational systems for governance, scraping, and verification.
 
 ## Start here
 
