@@ -40,7 +40,7 @@ Each public Pi extension is intentionally small and focused:
 
 | Project | What it shows | Start here |
 |---|---|---|
-| [`Spartan Scraper`](https://github.com/fitchmultz/spartan-scraper) | Local-first scraping and research workbench in Go | [5-minute demo](https://github.com/fitchmultz/spartan-scraper#5-minute-demo) |
+| [`Spartan Scraper`](https://github.com/fitchmultz/spartan-scraper) | Web scraping and research workbench in Go | [5-minute demo](https://github.com/fitchmultz/spartan-scraper#5-minute-demo) |
 | [`Promo Studio`](https://github.com/fitchmultz/promo-studio) | Codex commerce demo with receipts, diffs, transcripts, and validation | [What you are seeing](https://github.com/fitchmultz/promo-studio#what-you-are-seeing) |
 | [`agent-eval`](https://github.com/fitchmultz/agent-eval) | Transcript-first evaluation across Codex, Claude Code, and Pi sessions | [Outputs](https://github.com/fitchmultz/agent-eval#outputs) |
 | [`Ricochet Rush`](https://github.com/fitchmultz/ricochet-rush) | 3D browser game with generated board design and local fallback play | [Demo and QA](https://github.com/fitchmultz/ricochet-rush#demo-and-qa) |
@@ -51,7 +51,7 @@ Each public Pi extension is intentionally small and focused:
 ## What I focus on
 
 - Agent workflow infrastructure
-- Local-first AI developer tools
+- AI developer tools
 - Browser/native automation for coding agents
 - Auditable execution, receipts, and verification
 - Operational CLIs and control-plane patterns
@@ -61,7 +61,7 @@ Each public Pi extension is intentionally small and focused:
 - Show the outcome before setup when a README is meant for public review.
 - Include verification commands, local smoke paths, or proof artifacts where practical.
 - Make status and limits explicit instead of implying maturity that is not there.
-- Prefer local-first tools that leave inspectable files, logs, receipts, or reports behind.
+- Prefer tools that leave inspectable files, logs, receipts, or reports behind.
 
 ## Links
 
