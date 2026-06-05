@@ -30,6 +30,7 @@ These are the six projects I keep pinned. They show the current center of gravit
 - [`pi-oracle`](https://github.com/fitchmultz/pi-oracle) — ChatGPT web handoff for hard or long-running tasks with archives, async jobs, and saved results.
 - [`pi-edit-session-in-place`](https://github.com/fitchmultz/pi-edit-session-in-place) — re-edit or delete an earlier user message in the current session branch.
 - [`pi-zai-mcp`](https://github.com/fitchmultz/pi-zai-mcp) — Z.ai MCP server bridge for web search, URL/repository reading, and vision workflows in Pi.
+- [`pi-zai-agents`](https://github.com/fitchmultz/pi-zai-agents) — Z.AI Agent API tools for translation, slide/poster generation, and video effects in Pi.
 - [`pi-stash`](https://github.com/fitchmultz/pi-stash) — stash draft messages and restore them later.
 - [`pi-local-agents-only`](https://github.com/fitchmultz/pi-local-agents-only) — strip global `AGENTS.md` and `CLAUDE.md` instructions for selected projects.
 - [`pi-copy-user-message`](https://github.com/fitchmultz/pi-copy-user-message) — copy the most recent user message to the clipboard.
