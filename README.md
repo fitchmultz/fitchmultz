@@ -33,7 +33,7 @@ These are the six projects I keep pinned. They show the current center of gravit
 - [`pi-zai-agents`](https://github.com/fitchmultz/pi-zai-agents) — Z.AI Agent API tools for translation, slide/poster generation, and video effects in Pi.
 - [`pi-stash`](https://github.com/fitchmultz/pi-stash) — stash draft messages and restore them later.
 - [`pi-local-agents-only`](https://github.com/fitchmultz/pi-local-agents-only) — strip global `AGENTS.md` and `CLAUDE.md` instructions for selected projects.
-- [`pi-copy-message`](https://github.com/fitchmultz/pi-copy-message) — searchable TUI picker for copying raw session messages with role filters.
+- [`pi-copy-message`](https://github.com/fitchmultz/pi-copy-message) — searchable TUI picker plus `/copy-user` shortcut for copying raw session messages.
 
 ## More work worth opening
 
